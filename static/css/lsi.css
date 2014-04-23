@@ -1,0 +1,4 @@
+.video-list-item {border-bottom: 1px dotted #EFEFEF; padding: 8px; margin: 0;}
+.video-list-item-thumb {position: relative; display: block; width: 200px; height: 150px; float: left;}
+.video-list-item-thumb-img {width: auto; height: 150px;}
+.overlay-icon {position:absolute; left:40%; top:35%; filter:alpha(opacity=50); -moz-opacity:0.5; -khtml-opacity: 0.5; opacity: 0.5;}

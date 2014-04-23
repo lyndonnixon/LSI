@@ -1,0 +1,13 @@
+{"success":true,
+	"result":
+	[{
+		"property_id":"AT_GIA_0082",
+		"rateplan_codes":["SUITE"],
+		"price":100.0,
+		"rooms":["494"],
+		"latitude":null,
+		"longitude":null}
+	],
+	"price_range_min":100.0,
+	"price_range_max":100.0
+}

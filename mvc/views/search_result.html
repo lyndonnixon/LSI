@@ -1,0 +1,75 @@
+$def with (videos, images, rdf)
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<title>Media Resource Search Result</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<!-- Bootstrap -->
+		<link href="/lsi/static/css/bootstrap.min.css" rel="stylesheet" media="screen">
+		<link href="/lsi/static/css/lsi.css" rel="stylesheet" media="screen">
+		<script src="http://code.jquery.com/jquery.js"></script>
+		<script src="/lsi/static/js/bootstrap.min.js"></script>
+		<script src="/lsi/static/js/lsi.js"></script>
+	</head>
+	<body>
+		<div class="container" style="padding: 30px;">
+		<div class="row-fluid">
+		  <div class="offset2 span10">
+		    <h1>Linked Service Infrastructure</h1>
+		  </div>
+	    </div>
+	    <a href="/lsi">back</a><br />
+	    <h2>Media Search Results</h2>
+	    <div class="row-fluid">
+	        <ul class="nav nav-tabs">
+	            <li class="active" data-tab="video"><a href="#video">Video</a></li>
+	            <li data-tab="image"><a href="#image">Image</a></li>
+	            <li data-tab="rdf"><a href="#rdf">RDF</a></li>
+	        </ul>
+
+            <div id="video" class="tab-content">
+	            <ul class="media-list">
+	                $for video in videos:
+	                    <li class="media video-list-item">
+	                        <a class="video-list-item-thumb" href="${video.locator}" target="_blank">
+	                            <img class="media-object video-list-item-thumb-img" src="${video.thumbnail}" alt="" /><span class="overlay-icon"><img src="/lsi/static/img/play_overlay_s.png" alt="Play" width="36" height="36" /></span>
+	                        </a>
+	                        <div class="media-body span8">
+	                            <h4 class="media-heading"><a href="${video.locator} target="_blank"">${video.title}</a></h4>
+	                            $if video.description:
+	                            	<p>$video.description[0:270]</p>
+	                        </div>
+	                        <div class="clearfix"></div>
+	                    </li>
+	            </ul>
+	        </div>
+
+	        <div id="image" class="tab-content" style="display: none;">
+	            <ul class="media-list">
+	                $for image in images:
+	                    <li class="media video-list-item">
+	                        <a class="video-list-item-thumb" href="${image.locator}" target="_blank"><img class="media-object video-list-item-thumb-img" src="${image.locator}" /></a>
+	                        <div class="media-body span8">
+	                            <h4 class="media-heading"><a href="${image.locator}" target="_blank">${image.title}</a></h4>
+	                            $if image.description:
+	                            	<p>$image.description[0:270]</p>
+	                        </div>
+	                        <div class="clearfix"></div>
+	                    </li>
+	            </ul>
+	        </div>
+
+			<pre id="rdf" class="tab-content" style="display: none;">$rdf</pre>
+			
+			<div class="row-fluid">
+				<div class="offset2 span10">
+			        <p>Courtesy <a href="http://www.connectme.at/" target="_blank">ConnectME project</a> funded by the <a href="http://www.ffg.at/" target="_blank">FFG</a> <a href="http://www.ffg.at/coin-cooperation-innovation" target="_blank">COIN programme</a>. © <a href="http://research.sti2.org/" target="_blank">STI Research</a>, <a href="http://www.seekda.com/" target="_blank">Seekda</a> and <a href="https://sites.google.com/site/lyndonnixon/" target="_blank">Dr. Lyndon Nixon</a>.<br>
+			Code available under <a href="http://creativecommons.org/licenses/by-nc-nd/3.0/" target="_blank">CC-BY-NC-ND 3.0 license</a> at <a href="https://git.sti2.org/projects/CONNECTME">http://git.sti2.org/projects/CONNECTME</a>.</p>
+			    </div>
+			</div>
+			
+	    </div>
+	</body>
+</html>

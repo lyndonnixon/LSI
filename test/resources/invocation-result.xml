@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:ma="http://www.w3.org/ns/ma-ont#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:nodeID="N2a50c907ec294b97b9dcd7da7952f620">
+    <ma:title>A cold day on the street of Vienna #vienna #austria</ma:title>
+    <ma:locator rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://distilleryimage5.s3.amazonaws.com/c66c0586aa5811e28e1522000a1f9a99_7.jpg</ma:locator>
+    <rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N10a85be3518541c7b380fdf7154683bb">
+    <foaf:img rdf:resource="http://i.ytimg.com/vi/XDdMxRQRG8s/default.jpg"/>
+    <ma:title>skiing in vienna downtown</ma:title>
+    <ma:locator rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.youtube.com/watch?v=XDdMxRQRG8s&amp;feature=youtube_gdata_player</ma:locator>
+    <ma:duration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">69</ma:duration>
+    <rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nf0d314c6196c4209bcb2db611079425a">
+    <ma:title>Vienna Skiing</ma:title>
+    <foaf:img rdf:resource="http://i.ytimg.com/vi/qdEbG2nYiu4/default.jpg"/>
+    <ma:description>An Animated Winter - created at http://animoto.com.</ma:description>
+    <ma:duration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">34</ma:duration>
+    <ma:locator rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.youtube.com/watch?v=qdEbG2nYiu4&amp;feature=youtube_gdata_player</ma:locator>
+    <rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N5cd6f76c46e049beb7643ad85049559c">
+    <foaf:img rdf:resource="http://i.ytimg.com/vi/pEzRux54i_8/default.jpg"/>
+    <ma:title>Vienna Skiing</ma:title>
+    <ma:locator rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.youtube.com/watch?v=pEzRux54i_8&amp;feature=youtube_gdata_player</ma:locator>
+    <ma:duration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">115</ma:duration>
+    <rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nb99f730b679a473db2a816d6abd97c3a">
+    <ma:title>Viyana; insani az huzur bol sehir.. #wien #vienna #austuria #instagram #picoftheday #city</ma:title>
+    <ma:locator rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://distilleryimage8.s3.amazonaws.com/8ae25888aa4b11e2807c22000a1fba57_7.jpg</ma:locator>
+    <rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N87632dded19d4c1fb01704fb95c23ce8">
+    <ma:title>Bye bye Vienna. Next station  Budapest. 😘😘</ma:title>
+    <ma:locator rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://distilleryimage11.s3.amazonaws.com/5d4661b4aa5811e2904822000a9f13f5_7.jpg</ma:locator>
+    <rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Neeac99e346c54954a499c3559e7228a1">
+    <ma:title>🙈 @maxwanderer</ma:title>
+    <ma:locator rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://distilleryimage1.s3.amazonaws.com/e4154a24aa2c11e2a5f122000a1f96b9_7.jpg</ma:locator>
+    <rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Na5c29b7dd19f44e8bf207f006e67442f">
+    <ma:title>Vienna Skiing</ma:title>
+    <foaf:img rdf:resource="http://i.ytimg.com/vi/shNc4NY7_H8/default.jpg"/>
+    <ma:description>Vienna Skiing.</ma:description>
+    <ma:duration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</ma:duration>
+    <ma:locator rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.youtube.com/watch?v=shNc4NY7_H8&amp;feature=youtube_gdata_player</ma:locator>
+    <rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="N9857e27a8c0d4df2be1b1cb3077f7e43">
+    <ma:title>#cupcakes #cute #yummie #nomnom #beautiful #instagood #heart #cream</ma:title>
+    <ma:locator rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">http://distilleryimage3.s3.amazonaws.com/a32a561aaa6011e29a9c22000a1fbe09_7.jpg</ma:locator>
+    <rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#Image"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="Nc67901255b2c4712af293129c748cfda">
+    <ma:title>Vienna-Freeride</ma:title>
+    <foaf:img rdf:resource="http://i.ytimg.com/vi/2wNJ52jyHns/default.jpg"/>
+    <ma:description>Extreme skiing in Vienna :-)</ma:description>
+    <ma:duration rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">108</ma:duration>
+    <ma:locator rdf:datatype="http://www.w3.org/2001/XMLSchema#anyURI">https://www.youtube.com/watch?v=2wNJ52jyHns&amp;feature=youtube_gdata_player</ma:locator>
+    <rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#VideoTrack"/>
+  </rdf:Description>
+</rdf:RDF>

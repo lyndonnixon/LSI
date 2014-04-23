@@ -1,0 +1,73 @@
+{
+    "queries": [
+        {
+            "lod_uri": "http://dbpedia.org/resource/Vienna",
+            "context": "http://dbpedia.org/resource/Johann_Sebastian_Bach"
+        },
+        {
+            "lod_uri": "http://dbpedia.org/resource/Vienna",
+            "context": "http://dbpedia.org/resource/Wolfgang_Amadeus_Mozart"
+        },
+        {
+            "lod_uri": "http://dbpedia.org/resource/Schladming"
+        },
+        {
+            "lod_uri": "http://dbpedia.org/resource/Salzburg"
+        },
+        {
+            "lod_uri": "http://dbpedia.org/resource/Salzkammergut"
+        },
+        {
+            "lod_uri": "http://dbpedia.org/resource/Gmunden"
+        },
+        {
+            "lod_uri": "http://dbpedia.org/resource/London",
+            "context": "http://dbpedia.org/resource/Johann_Sebastian_Bach"
+        },
+        {
+            "lod_uri": "http://dbpedia.org/resource/Vienna"
+        },
+        {
+            "lod_uri": "http://dbpedia.org/resource/Amsterdam"
+        },
+        {
+            "lod_uri": "http://dbpedia.org/resource/Berlin"
+        },
+        {
+            "lod_uri": "http://dbpedia.org/resource/Hermitage_Amsterdam"
+        },
+        {
+            "lod_uri": "http://dbpedia.org/resource/Chi_Rho"
+        },
+        {
+            "lod_uri": "http://dbpedia.org/resource/Jan_Sluyters"
+        },
+        {
+            "lod_uri": "http://dbpedia.org/resource/Berlin_Brandenburg_Airport"
+        },
+        {
+            "lod_uri": "http://dbpedia.org/resource/Klaus_Wowereit"
+        },
+        {
+            "lod_uri": "http://dbpedia.org/resource/Red_City_Hall"
+        },
+        {
+            "lod_uri": "http://dbpedia.org/resource/Organ_donation"
+        },
+        {
+            "lod_uri": "http://dbpedia.org/resource/Charite"
+        },
+        {
+            "lod_uri": "http://dbpedia.org/resource/MS_Deutschland"
+        },
+        {
+            "lod_uri": "http://dbpedia.org/resource/London_docks"
+        },
+        {
+            "lod_uri": "http://dbpedia.org/resource/Silbermond"
+        },
+        {
+            "lod_uri": "http://dbpedia.org/resource/Haus_des_Rundfunks"
+        }
+    ]
+}
