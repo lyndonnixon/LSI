@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<results xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+	<opensearch:Query role="request" searchTerms="" startPage="1"/>
+	<opensearch:totalResults>1</opensearch:totalResults>
+	<opensearch:startIndex>0</opensearch:startIndex>
+	<opensearch:itemsPerPagex>100</opensearch:itemsPerPagex>
+	<matches results="1">
+		<recording slug="gstonedasfinalebadeschiffviennaat2008062813120" id="13120">
+			<title><![CDATA[G-Stone - das Finale @ Badeschiff (Vienna/at) - 2008-06-28]]></title>
+			<published_at>2009-03-20 10:51:19</published_at>
+			<length>20438413</length>
+			<url>http://www.play.fm/recording/gstonedasfinalebadeschiffviennaat2008062813120</url>
+			<stream>http://fs1.play.fm/stream/1c55d7c3fdd7a02737f8:a6aa002c6c/13120/0/x8408c8f0</stream>
+			<artists>
+				<artist slug="peterkruder" id="719">Peter Kruder</artist>
+				<artist slug="richarddorfmeister" id="1128">Richard Dorfmeister</artist>
+				<artist slug="christianprommer" id="5397">Christian Prommer</artist>
+			</artists>
+			<styles>
+				<style slug="downbeat" id="1" name="Downbeat"/>
+				<style slug="house" id="5" name="House"/>
+				<style slug="techno" id="8" name="Techno"/>
+			</styles>
+				<image>http://static.play.fm/thumbs/big/center/middle/3_4e5e9e54-ba3a-09d49401.jpg</image>
+				<thumbnail>http://static.play.fm/thumbs/small/center/middle/3_4e5e9e54-ba3a-09d49401.jpg</thumbnail>
+		</recording>
+	</matches>
+</results>

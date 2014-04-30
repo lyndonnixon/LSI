@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:media="http://search.yahoo.com/mrss/" xmlns:mo="http://purl.org/ontology/mo/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:h="http://www.w3.org/1999/xhtml" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ma="http://www.w3.org/ns/ma-ont#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/">
+<rdf:Description>
+<rdf:type rdf:resource="http://www.w3.org/ns/ma-ont#AudioTrack"/>
+<dc:title><![CDATA[G-Stone - das Finale @ Badeschiff (Vienna/at) - 2008-06-28]]></dc:title>
+<dc:description/>
+<ma:locator rdf:resource="http://fs1.play.fm/stream/1c55d7c3fdd7a02737f8:a6aa002c6c/13120/0/x8408c8f0"/>
+<foaf:img rdf:resource="http://static.play.fm/thumbs/big/center/middle/3_4e5e9e54-ba3a-09d49401.jpg"/>
+<media:thumbnails rdf:resource="http://static.play.fm/thumbs/small/center/middle/3_4e5e9e54-ba3a-09d49401.jpg"/>
+<ma:duration rdf:datatype="http://www.w3.org/2001/XMLSchema#float">20438.413</ma:duration>
+</rdf:Description>
+</rdf:RDF>
