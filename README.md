@@ -7,9 +7,9 @@ LICENSE
 
 This software is (c) 2013 STI International GmbH , Seekda GmbH and Dr Lyndon Nixon
 
-It is distributed under the GNU GPL 3.0 license. Refer to the LICENSE file for further information.
+It is distributed under the Apache 2.0 license. Refer to the LICENSE file for further information.
 
-The below attribution and usage terms may not be modified under the conditions of this license.
+The below attribution and disclaimer may not be modified under the conditions of this license.
 
 ATTRIBUTION
 
@@ -22,8 +22,8 @@ The work was also inspired by a research paper:
 Carlos Pedrinaci, John Domingue, and Reto Krummenacher. Services and the Web of Data: An Unexploited Symbiosis. In Linked AI: AAAI Spring Symposium �Linked Data Meets Artificial Intelligence� 2010.
 
 
-TERMS AND CONDITIONS
+DISCLAIMER
 
 This software, its code and documentation, is made available without guarantee of correctness or completeness. The software owner gives permission for the use of this software without liability.
 
-This software, its code and documentation, is made available under a LICENSE. Redistributions of the software shall include the same LICENSE in the software package. Installations of the software should also refer to this LICENSE.
+This software, its code and documentation, is made available under a LICENSE. Redistributions of the software shall include the same LICENSE on all umodified parts in the software package. Installations of the software should also refer to this LICENSE.
